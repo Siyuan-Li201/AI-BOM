@@ -1,0 +1,13 @@
+# Core scripts mainly use the Python standard library.
+# These packages enable extended static model profiling and ONNX validation.
+
+numpy>=1.23
+onnx>=1.14
+h5py>=3.8
+safetensors>=0.4
+
+# Optional heavy profilers. Install manually if needed:
+# tensorflow
+# torch
+# tflite-runtime
+# coremltools

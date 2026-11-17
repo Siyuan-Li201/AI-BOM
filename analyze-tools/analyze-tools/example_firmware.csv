@@ -1,0 +1,4 @@
+Model,Version,Region,Date,DownloadLink
+apollo,v9.0.0,Global,2023-12-18,https://api.github.com/repos/ApolloAuto/apollo/zipball/v9.0.0
+Autoware Universe,0.51.0,Global,2026-05-02,https://api.github.com/repos/autowarefoundation/autoware_universe/zipball/0.51.0
+openpilot,v0.10.0,Global,2025-08-21,https://api.github.com/repos/commaai/openpilot/zipball/v0.10.0
